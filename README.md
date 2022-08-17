@@ -12,11 +12,14 @@ Some kernels are in different locations, or have consolidated as they are identi
   - r4li.com carts
   - r4infinity.com 2
   - r4ixds.com 2014 white version
+  - woodr4isdhc.com carts
   - (please raise an issue if you think your cart is an Ace3DS+ or R4iLS clone!)
 
 These carts may support BL2CK OS. Only these carts are confirmed to actually work so far:
 - r4i3d.com 2012-2013
 - r4igold.cc 3DS
+- r4igold.cc Wood (use the Amaze3DS version)
+- Amaze3DS (use the Amaze3DS version)
 - r4i-gold.me 2014-2015
 - r4isdhc.hk 2015
 - r4isdhc.com NEW/2013 carts
@@ -33,3 +36,6 @@ Please do not attempt cross-loading without knowing what you're doing.
 - r4ixds.com 2014-2016 non-white
 - r4i-gold.me 2013
 - r4i-gold.com 3DS Gold Pro
+- amazekard.com cards
+- Galaxy Eagle cards
+- r4i.ndsi.in cards
